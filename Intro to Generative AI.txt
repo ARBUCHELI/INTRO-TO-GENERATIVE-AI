@@ -180,6 +180,59 @@ sources?
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Try It Out!
+-------------
+Now that we have learned more about how generative AI works, it’s time to try speaking with one!
+
+In the middle of this page is a Prompt box, where you can write a prompt for a real AI powered by ChatGPT to respond to.
+
+To the right of this is the Output box, where you can then read ChatGPT’s responses.
+
+Many interfaces for generative AIs, like the one used on ChatGPT’s website, will look similar to this.
+
+Try talking to ChatGPT just as if you were texting a friend. For handy day-to-day use, you can try asking it a few questions or prompting it to write something unique. Here are some 
+suggestions to get you started:
+
+	. Tell me a fun fact about the universe.
+	. How can I best grow tomatoes at home?
+	. Write a short poem about autumn.
+	. What meal can I make using peas and mushrooms?
+
+* Data and Privacy Warning
+--------------------------
+The prompts you enter are sent to OpenAI for processing and stored by Codecademy. Do not enter any personal or confidential information. To learn more about data storage and usage, please 
+refer to Codecademy’s Privacy Policy and Terms of Use.
+
+The AI-generated outputs in this course are based on statistical patterns and are not moderated. Please exercise caution, use your own judgment, and fact-check when interpreting the 
+outputs.
+
+* Instructions
+--------------
+Write a prompt for ChatGPT in the Prompt box and then hit the Generate button to see its response!
+
+Please keep in mind that this AI can currently only generate a limited number of responses a day.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
