@@ -1,0 +1,17 @@
+# INTRO TO GENERATIVE AI
+------------------------
+
+* What is Generative AI
+-----------------------
+Artificial Intelligence (or AI) is a fast-evolving field of technology that lets computers simulate human functions, such as learning and problem-solving. A subset of AI that’s been 
+gaining traction recently is generative AI. This branch of AI specializes in creating new content, be it text, images, audio, or videos.
+
+How is this AI able to be so creative? Generative AI is trained using vast amounts of data, for example, billions of sentences, millions of images, or years of audio. By analyzing these 
+inputs, the AI identifies patterns and rules and then uses these to generate new, original content in a similar style or format.
+
+There are many real-world examples of generative AI in use today, including ChatGPT, which can generate text, and Dall-E, which can create artwork.
+
+Let’s dive deeper into the many forms of generative AI and learn how we can best use these new technologies!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
