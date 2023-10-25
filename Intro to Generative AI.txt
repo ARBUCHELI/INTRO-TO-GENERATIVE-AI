@@ -15,3 +15,34 @@ Let’s dive deeper into the many forms of generative AI and learn how we can be
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Text-Based Generative AI
+--------------------------
+Some of the greatest possibilities open up when AI meets text. Text-based generative AI has the ability to produce human-like writing, making it a powerful tool for many applications.
+
+A popular example of this technology is ChatGPT, an AI model trained on millions of web pages. This training is what gives ChatGPT its knowledge of modern topics and the ability to give 
+realistic output.
+
+To be more specific, it can create written content, such as articles or blog posts, making content writers more productive and allowing domain experts to communicate their ideas more 
+easily. These generative AIs can also automate common interactions, such as email responses or chatbot conversations, providing more expedient and accurate customer service. Or assist in 
+routine tasks like scheduling meetings or sending reminders, effectively acting as a virtual assistant.
+
+One surprising application of text-based AI is personalized tutoring. An AI can be programmed to answer specific questions on content, providing a unique learning experience tailored to 
+each individual. Or if the user wants to read content originally from another language, the AI can translate the text as well.
+
+For business applications, generative text AIs have made progress in data reporting and analyzing and summarizing data. They have also found use in programming, where they have been used 
+to generate code for simple tasks or edit existing code to reduce errors.
+
+So many aspects of our digital culture can be represented as text. By understanding text-based generative AIs, exciting possibilities open up across a wide variety of fields.
+
+* Instructions
+--------------
+Click on a sample prompt to see what a conversation with ChatGPT could look like!
+
+Try starting with:
+
+“My team is interested in ChatGPT, tell me about that”
+
+Make sure to click the Send button in the workspace to send your message! It looks like a paper airplane:GPT Send
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
