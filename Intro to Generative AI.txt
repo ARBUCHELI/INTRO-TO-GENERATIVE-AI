@@ -214,6 +214,29 @@ Please keep in mind that this AI can currently only generate a limited number of
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Review
+--------
+In this lesson, we have covered many use cases for generative AI. It is an exciting technology with an endless amount of uses that will likely transform how people work in the future, 
+regardless of their industry.
+
+Text-based generative AI, like ChatGPT, can offer versatile applications across various fields by creating human-like written content, such as automating interactions, personalizing 
+tutoring, and even generating or editing code.
+
+Image-based generative AI, like Dall-E, may revolutionize various fields by creating or modifying images from text descriptions, facilitating graphic design, customizing existing designs, 
+and aiding in professional training.
+
+There are many uses for audio-based generative AI. From creating new music compositions, to converting text-to-speech with natural inflection, to cloning specific voices.
+
+Video-based generative AI is another area of innovation. It can replace faces, automate special effects, and improve the viewing experience through real-time edits and enhancements.
+
+Despite its potential, generative AI can have drawbacks, like inaccurate responses, copyright issues, misuse, and privacy concerns. It also raises ethical questions about job losses due 
+to automation, who owns the AI-generated content, and the responsibilities of those who create AIs, stressing the need for responsible use and ongoing research.
+
+Understanding these technologies and their implications is key as we continue to integrate AI into various parts of our society. Only by learning more about them can we hope to best 
+utilize generative AI in the future.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
