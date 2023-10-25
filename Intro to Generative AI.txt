@@ -121,6 +121,50 @@ When a computer can have such a deep understanding of a video, what problems cou
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Risks and Limitations of Using Generative AI
+----------------------------------------------
+While generative AI is a very promising technology, it’s crucial to understand its limitations and potential for misuse. Each form of generative AI has its own unique set of challenges 
+and risks.
+
+Text-based generative AI, for example, may produce incorrect or nonsensical responses due to its focus on identifying patterns in text, not necessarily identifying facts. There is also a 
+lack of access to current data, leaving some output to be outdated.
+
+Audio-based generative AI raises a variety of legal issues. What should the licensing and copyright look like for training data or the generated output? And when this audio is generated,
+how can its misuse be prevented, for example in cases of impersonation? Even for more just causes of audio-based generative AI, if used for customer support, the reality of talking to a
+machine could feel impersonal and lead to frustrating errors.
+
+Similar issues exist in video-based generative AI as well. Video has traditionally been viewed as a higher standard for more truthful content, but with AI being able to create deceptive 
+content, unethically using someone’s likeness without their consent, that reputation may become tarnished.
+
+Across all the types of generative AIs there are also more general issues. Data privacy is a concern as users could upload sensitive information to AI platforms without the consent of 
+others. There’s also a risk of information overload, with AIs being able to rapidly produce and distribute vast amounts of content, which can be used for fraudulent reviews, false 
+narratives, or comment spamming.
+
+Research into how to solve these issues is ongoing, emphasizing the importance of responsible AI use. Understanding these limitations and potential risks is key to harnessing the power of 
+generative AI effectively.
+
+* Instructions
+--------------
+Click the prompt to see some examples of the nonsensical results a generative AI can provide. The address for the Dover House of Pizza isn’t the same every time.
+
+How can AIs be held accountable for these errors? How can these errors be reduced in the future?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
