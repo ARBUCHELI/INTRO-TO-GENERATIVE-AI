@@ -72,3 +72,29 @@ generate new art based on it?
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Audio-Based Generative AI
+---------------------------
+The applications for audio-based generative AI are truly diverse. Whether creating new voices, original songs, or sounds of animals in a rainforest, there are many possibilities.
+
+For music creation, audio-based generative AI can use a simple text description to create entirely new compositions or finish an existing song. This could lead to more innovative sounds 
+as musicians are able to more easily move past traditional instruments.
+
+Another significant application is text-to-speech conversion. This AI capability can convert written text into spoken words that carry natural-sounding inflection and tonality, which can 
+be instrumental in accessibility tools or interactive customer service.
+
+A related, but more advanced application of audio-based AI is voice cloning, where an AI system can mimic a specific person’s voice for uses such as dubbing films or providing voiceovers.
+
+AI can also be used in audio restoration and enhancement, improving the quality of old or noisy recordings. This can have significant applications in preserving historical records or 
+enhancing sound quality in existing media.
+
+The world of audio-based generative AI is fascinating, with the potential to significantly impact various sectors of our society.
+
+* Instructions
+--------------
+Click the prompt to see a sample output of music generated with AI.
+
+Have you heard something similar to this song before? Is the value of songs like it lessened now that they can be easily made by a computer?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
