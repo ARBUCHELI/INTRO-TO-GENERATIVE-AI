@@ -97,4 +97,57 @@ Have you heard something similar to this song before? Is the value of songs like
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Video-Based Generative AI
+---------------------------
+At the intersection of images and audio is video-based generative AI.
+
+Many of the applications for this type of AI are more advanced combinations of the previous image and audio examples. For example, video-based generative AI can replace the appearance of 
+one person with the likeness of another in a video, a technique known as “facial replacement” or “deepfake.” This capability can fundamentally change the film and advertising industry, 
+possibly leading to more personalized content generated on demand.
+
+This type of AI is also great for boosting efficiency and creativity in production by automating certain video editing and special effects tasks. Along with this, AIs can also generate 
+synthetic video data for use in training autonomous vehicles, security teams, and medical professionals.
+
+Video-based generative AI can be a great help to existing video as well. For videos such as sporting events, AI can create analytic overlays providing real-time insights, enhancing the 
+viewer experience. AI can also be used to enhance low-quality or damaged videos, which was not previously possible.
+
+Video-based generative AI is another example of the revolutionary impact this technology can have across a wide variety of industries.
+
+* Instructions
+--------------
+The provided prompt shows a video upscaled with AI.
+
+When a computer can have such a deep understanding of a video, what problems could it cause? How are these issues affected by the increase in cameras in the world?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
